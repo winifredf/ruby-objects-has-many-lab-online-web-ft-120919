@@ -1,4 +1,4 @@
-rclass Artist
+class Artist
   attr_accessor :name, :title
   
   @@song_count = 0
