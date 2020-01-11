@@ -14,8 +14,5 @@ class Song
     else
       @artist.name
     end
-  
-  def self.all
-    @@all
   end
 end
